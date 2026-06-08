@@ -14,7 +14,7 @@ export default function Footer() {
           {/* Left: Logo + tagline */}
           <div className="flex items-center gap-2.5">
             <img
-              src="/images/Full Gradient Logo.png"
+              src="/images/Full-Gradient-Logo.png"
               alt=""
               className="w-6 h-6 rounded-md object-cover"
             />
@@ -91,7 +91,7 @@ export default function Footer() {
         {/* Bottom: Copyright */}
         <div className="mt-6 pt-4 text-center" style={{ borderTop: "1px solid var(--border-color)" }}>
           <p className="text-[11px]" style={{ color: "var(--text-muted)" }}>
-            Made with care by {siteConfig.author}. All plugins are free and open source.
+            Made with care by Symest! All plugins are free and open source.
           </p>
         </div>
       </div>
