@@ -35,7 +35,7 @@ export default function Header() {
         {/* Logo */}
         <Link to="/" className="flex items-center gap-2.5 group">
           <img
-            src="/images/Full Gradient Logo.png"
+            src="images/Full-Gradient-Logo.png"
             alt="EZ Plugins"
             className="w-8 h-8 rounded-lg object-cover"
           />
