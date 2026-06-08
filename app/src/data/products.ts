@@ -54,9 +54,9 @@ export const products: Product[] = [
       "Delta, bypass, and A/B comparison",
       "JSON preset import/export",
     ],
-    imageLight: "/images/EZ Level light theme.png",
-    imageDark: "/images/EZ Level dark theme.png",
-    logoImage: "/images/EZ Level Logo.png",
+    imageLight: "images/EZ-Level-light-theme.png",
+    imageDark: "images/EZ-Level-dark-theme.png",
+    logoImage: "images/EZ-Level-Logo.png",
     platforms: {
       windows: "yes",
       mac: "yes",
